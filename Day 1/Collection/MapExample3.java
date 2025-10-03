@@ -1,5 +1,5 @@
 
-package demo1.Collection;
+
 import java.util.HashMap;
 import java.util.Map;
 public class CollectiomExample3 {
