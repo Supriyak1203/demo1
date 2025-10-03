@@ -3,7 +3,7 @@ package demo1.Collection;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-public class Student implements Comparable<Student>{
+ class Student implements Comparable<Student>{
     int id;
     String name;
 
