@@ -1,4 +1,4 @@
-package demo1.RuntimeException;
+
 
 public class StringIndexOutOfBoundException {
     public static void main(String[] args) {

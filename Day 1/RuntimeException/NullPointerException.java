@@ -1,4 +1,4 @@
-package demo1.RuntimeException;
+
 
 public class NullPointerException {
     public static void main(String[] args) {

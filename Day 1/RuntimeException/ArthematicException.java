@@ -1,4 +1,4 @@
-package demo1.RuntimeException;
+
 class ArthematicException{
     public static void main(String [] args){
         int a=10;
