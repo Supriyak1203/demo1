@@ -1,8 +1,8 @@
-package demo1.Collection;
+
 
 import java.util.ArrayList;
 
-public class CollectionExample4 {
+public class ArrayListExample4 {
     public static void main(String[] args) {
         
         ArrayList<Integer> al=new ArrayList<>();

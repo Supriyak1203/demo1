@@ -2,7 +2,7 @@
 
 import java.util.HashMap;
 import java.util.Map;
-public class CollectiomExample3 {
+public class MapExample3 {
     public static void main(String[] args) {
         Map<Integer,String> student=new HashMap<>();
         student.put(101,"supriya");
