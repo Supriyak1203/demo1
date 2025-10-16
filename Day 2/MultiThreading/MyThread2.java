@@ -8,7 +8,7 @@ public class MyThread2 extends Thread {
             Thread.sleep(1000);
             }
             catch(InterruptedException e)
-            throw new RuntimeException(e);
+            
         }
         System.out.println(i);
        
